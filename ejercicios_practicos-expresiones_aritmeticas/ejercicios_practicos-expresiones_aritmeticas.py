@@ -29,6 +29,15 @@ print(10 % 2)
 # Tus predicciones: 5.0, 5, 0.
 
 
+# Ejercios 1.4: Potencia
+
+print(2 ** 3)
+print(2 ^ 3)
+
+# Tus predicciones: 8, 1.
+
+
+
 # Ejercicio 1.5: Negación
 
 print(5 - -3)
