@@ -37,7 +37,6 @@ print(2 ^ 3)
 # Tus predicciones: 8, 1.
 
 
-
 # Ejercicio 1.5: Negación
 
 print(5 - -3)
