@@ -1,0 +1,10 @@
+9780134685991|Effective Python|Brett Slatkin|2019|Programación|5
+9780135404676|Python Crash Course|Eric Matthes|2019|Programación|3
+9781449355739|Fluent Python|Luciano Ramalho|2015|Programación|2
+9780596007126|Head First Design Patterns|Eric Freeman|2004|Ingeniería Software|4
+9780132350884|Clean Code|Robert Martin|2008|Ingeniería Software|6
+9780201633610|Design Patterns|Gang of Four|1994|Ingeniería Software|3
+9780596009205|Head First Java|Kathy Sierra|2005|Programación|5
+9781491946008|Fluent Python 2nd|Luciano Ramalho|2022|Programación|4
+9780134190440|The Go Programming Language|Alan Donovan|2015|Programación|2
+9781617294433|Grokking Algorithms|Aditya Bhargava|2016|Algoritmos|8

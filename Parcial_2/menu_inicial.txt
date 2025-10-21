@@ -1,0 +1,15 @@
+E001|Ensalada César|entrada|85.00|True
+E002|Sopa de Tortilla|entrada|65.00|True
+E003|Guacamole con Totopos|entrada|75.00|True
+P001|Filete de Res|plato_fuerte|350.00|True
+P002|Pasta Alfredo|plato_fuerte|180.00|True
+P003|Salmón a la Parrilla|plato_fuerte|320.00|True
+P004|Tacos de Pescado|plato_fuerte|145.00|True
+P005|Pizza Margarita|plato_fuerte|195.00|True
+D001|Tiramisú|postre|95.00|True
+D002|Cheesecake|postre|85.00|True
+D003|Helado|postre|55.00|True
+B001|Limonada|bebida|45.00|True
+B002|Agua Mineral|bebida|35.00|True
+B003|Café Americano|bebida|40.00|True
+B004|Jugo Natural|bebida|50.00|True
